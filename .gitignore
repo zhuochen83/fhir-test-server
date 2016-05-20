@@ -1,0 +1,5 @@
+node_modules
+public/**/*.html
+public/**/*.map
+public/**/*.js
+npm-debug.log
